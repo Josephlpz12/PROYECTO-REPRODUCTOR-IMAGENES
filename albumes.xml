@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<albumes>
+    <album>
+        <nombre>Favoritos</nombre>
+        <cantidad>1</cantidad>
+        <fotos>
+            <ruta>/home/jose/Escritorio/DOCUMENTOS COMPLETADOS/BRASIL.jpg</ruta>
+        </fotos>
+    </album>
+    <album>
+        <nombre>Numeros</nombre>
+        <cantidad>5</cantidad>
+        <fotos>
+            <ruta>/home/jose/Escritorio/DOCUMENTOS COMPLETADOS/UNO.jpg</ruta>
+            <ruta>/home/jose/Escritorio/DOCUMENTOS COMPLETADOS/DOS.jpg</ruta>
+            <ruta>/home/jose/Escritorio/DOCUMENTOS COMPLETADOS/TRES.jpg</ruta>
+            <ruta>/home/jose/Escritorio/DOCUMENTOS COMPLETADOS/CUATRO.jpg</ruta>
+            <ruta>/home/jose/Escritorio/DOCUMENTOS COMPLETADOS/CINCO.jpg</ruta>
+        </fotos>
+    </album>
+    <album>
+        <nombre>Liverpool</nombre>
+        <cantidad>5</cantidad>
+        <fotos>
+            <ruta>/home/jose/Escritorio/imagen.png</ruta>
+            <ruta>/home/jose/Escritorio/DOCUMENTOS COMPLETADOS/CINCO.jpg</ruta>
+            <ruta>/home/jose/Escritorio/DOCUMENTOS COMPLETADOS/FRANCIA.jpg</ruta>
+            <ruta>/home/jose/Escritorio/DOCUMENTOS COMPLETADOS/ROMA.jpg</ruta>
+            <ruta>/home/jose/Escritorio/DOCUMENTOS COMPLETADOS/UNO.jpg</ruta>
+        </fotos>
+    </album>
+</albumes>
